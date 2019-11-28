@@ -8,4 +8,5 @@ int main()
 cout << MySum(10, 3) << endl; 
 cout << MySub(10, 3) << endl; 
 cout << MyMul(10, 3) << endl; 
+cout << MydDiv(10, 3) << endl; 
 system("pause"); 
